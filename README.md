@@ -1011,6 +1011,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Praveen Kumar Potturi</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/aknandansharma">
+                    <img src="https://avatars.githubusercontent.com/u/90132050?v=4" width="100px;" alt="Aknandan Kumar"/>
+                    <br />
+                    <sub><b>Aknandan Kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
